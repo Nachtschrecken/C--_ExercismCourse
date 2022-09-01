@@ -9,10 +9,8 @@ int main() {
 
 namespace hello_world {
 
-    
-
     string hello() {
         return "Hello, World!";
     }
-
+    
 }
